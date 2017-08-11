@@ -1,2 +1,2 @@
-# awsLogsParser
+#AwsLogsParser
 AWS CloudWatch Logs Parser 
